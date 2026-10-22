@@ -99,6 +99,10 @@ An earlier iteration of the Cravy project.
 - **Repository:** Private
 - **Source code:** Not publicly available
 
+### 14. Vaytono 1.11.0
+a prototype of canteen mobile application (under development)
+- **Repository:** Private
+- **Source code:** Not publicly available
 ---
 
 ## Technologies
